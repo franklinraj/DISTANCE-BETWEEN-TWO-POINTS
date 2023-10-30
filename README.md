@@ -32,6 +32,7 @@ d=distance(x1,y1,x2,y2)
 print(round(d,2))
 ```
 ### OUTPUT:
-!["output](/distance.png)
+![distance](https://github.com/franklinraj/DISTANCE-BETWEEN-TWO-POINTS/assets/148993740/8d0272ef-f34e-4e6f-802b-a79eb97ef616)
+
 ### RESULT:
 Thus the python program for distance between two points is excueted successfully
